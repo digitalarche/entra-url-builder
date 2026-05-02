@@ -4,6 +4,8 @@ A free online tool to generate Microsoft Entra ID (Azure AD) OAuth 2.0 authoriza
 
 🔗 **Live App:** [https://signin.merill.net](https://signin.merill.net)
 
+![Entra Sign-in URL Builder screenshot](assets/screenshot.png)
+
 ## Why I Built This
 
 I created this tool after repeatedly building authentication URLs manually, encoding parameters, looking up docs - a tedious process I'd done countless times. This simple tool streamlines URL generation by providing an intuitive form interface where you can quickly fill in parameters and instantly get a properly formatted result.
